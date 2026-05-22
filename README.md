@@ -1,4 +1,3 @@
-# vanguard_ab_test
 # Vanguard A/B Test — Análisis de Resultados
 
 ## Contexto del Experimento
